@@ -31,15 +31,3 @@ It's part of my learning journey into backend development and building scalable,
 - **Tools:** IntelliJ IDEA, Postman  
 
 ---
-
-## 📸 Screenshots (Optional)
-
-_Add some screenshots here if you have UI or Swagger setup_
-
----
-
-## 🚀 How to Run
-
-1. Clone this repo  
-   ```bash
-   git clone https://github.com/your-username/student-management-system.git
